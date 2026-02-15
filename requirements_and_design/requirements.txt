@@ -1,0 +1,10 @@
+torch	PyTorch. The engine behind the audio classification model.
+transformers	Hugging Face library to load the CLAP audio model.
+ollama	Python client to communicate with the local Qwen model.
+pyaudio	Captures raw audio stream from the microphone.
+numpy	Converts raw audio bytes into mathematical arrays for analysis.
+SpeechRecognition	Google Speech-to-Text for transcribing user responses.
+edge-tts	Microsoft Edge Text-to-Speech (High quality, free neural voices).
+pygame	Plays back the generated TTS audio files.
+pillow	Handles image processing for the GUI (backgrounds/icons).
+pyaudio audio
