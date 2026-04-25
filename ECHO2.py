@@ -57,11 +57,8 @@ EMAIL_CONFIG = {
     "sender": "hackathonteamecho@gmail.com",
     "password": "zyptkbuhkbrlsgts",
     "receivers": [
-        "saishovan2@gmail.com",
-        "simrandasisme@gmail.com",
-        "bhumika.khandelwal2006@gmail.com",
-        "rupeshmaharana5566@gmail.com",
-        "marthahimesh2006@gmail.com"
+        "jinendra.banthia.iter@gmail.com",
+        "hackathonteamecho@gmail.com"
     ],
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587
